@@ -16,10 +16,10 @@ body {
 
 form {
     background-color: rgb(249, 240, 255);
-    padding: 15px; /* Ajuste o preenchimento interno conforme necessário */
+    padding: 15px; 
     border: 2px solid rgb(249, 240, 255);
     border-radius: 10px;
-    max-width: 400px; /* Ajuste a largura máxima conforme necessário */
+    max-width: 400px; 
 }
 
 .container form {
