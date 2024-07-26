@@ -17,6 +17,8 @@ O JS é muito importante, pois assim como o HTML ele adiciona funções mais com
 ## CSS do projeto (CPF)
 Apenas estiliza para deixar mais agradável ao público, posicionado o no meio, colocando um gradiente no fundo e organizando as informações do HTML
  
+## Imagem do site (CPF)
+![Capa da Validação de CPF](imagens/Captura%20de%20tela%202024-07-26%20113905.png)
  # Validação de Email
 
  ## HTML do projeto (Email)
@@ -31,3 +33,5 @@ Apenas estiliza para deixar mais agradável ao público, posicionado o no meio, 
  Apenas estiliza para deixar mais confortável e chamativo ao público, posicionado o no meio,<br>
 colocando um gradiente no fundo e organizando as informações do HTML.
  
+ ## Imagem do site (Email)
+ ![Capa da Validação de Email](imagens/Captura%20de%20tela%202024-07-26%20113842.png)
