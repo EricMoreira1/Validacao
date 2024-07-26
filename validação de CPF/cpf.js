@@ -9,7 +9,7 @@ document.getElementById('cpfForm').addEventListener('submit', function(event){
  
     if(validarCPF(cpf)){
         msg.textContent = 'O CPF é válido!';// esse codigo mostra uma mensagem em ciman do campo de digitação
-        msg.style.color = 'green';
+        msg.style.color = 'white';
     }else{
         msg.textContent = 'O CPF é inválido!';
         msg.style.color = 'red';// estiliza a cor da mensagem
